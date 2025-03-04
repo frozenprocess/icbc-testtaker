@@ -1,3 +1,6 @@
+# Disclaimer
+This program is written for educational purposes.
+
 # Requiremnents
 Python 3
 selenium
